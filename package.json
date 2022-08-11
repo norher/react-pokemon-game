@@ -1,0 +1,19 @@
+{
+  "name": "react-pokemon-game",
+  "version": "1.0.0",
+  "description": "Pokemon game that matches up randomized teams",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/norher/react-pokemon-game.git"
+  },
+  "author": "Norman Herrera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/norher/react-pokemon-game/issues"
+  },
+  "homepage": "https://github.com/norher/react-pokemon-game#readme"
+}
