@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/norher/react-pokemon-game/static/css/main.dff38739.css",
+    "main.js": "/norher/react-pokemon-game/static/js/main.e19cccb8.js",
+    "static/js/787.fe19e642.chunk.js": "/norher/react-pokemon-game/static/js/787.fe19e642.chunk.js",
+    "index.html": "/norher/react-pokemon-game/index.html",
+    "main.dff38739.css.map": "/norher/react-pokemon-game/static/css/main.dff38739.css.map",
+    "main.e19cccb8.js.map": "/norher/react-pokemon-game/static/js/main.e19cccb8.js.map",
+    "787.fe19e642.chunk.js.map": "/norher/react-pokemon-game/static/js/787.fe19e642.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dff38739.css",
+    "static/js/main.e19cccb8.js"
+  ]
+}
