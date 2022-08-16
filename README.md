@@ -6,6 +6,8 @@
 
 https://opensource.org/licenses/BSD-3-Clause
 
+![image](./public/pokemon.png)
+
 [Deployed App](https://agile-ocean-96610.herokuapp.com/)
 
 ## Table of contents
