@@ -1,7 +1,8 @@
 {
-  "name": "Pokemon Game",
-  "version": "0.1.0",
-  "private": true,
+  "name": "react-pokemon-game",
+  "version": "1.0.0",
+  "description": "Pokemon Game made with ReactJS",
+  "main": "index.js",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.3.0",
@@ -11,7 +12,12 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -34,5 +40,15 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/norher/react-pokemon-game.git"
+  },
+  "author": "Norman Herrera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/norher/react-pokemon-game/issues"
+  },
+  "homepage": "https://github.com/norher/react-pokemon-game"
 }
