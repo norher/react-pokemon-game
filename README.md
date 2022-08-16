@@ -6,7 +6,7 @@
 
 https://opensource.org/licenses/BSD-3-Clause
 
-[Deployed App](https://norher.github.io/react-pokemon-game/)
+[Deployed App](https://agile-ocean-96610.herokuapp.com/)
 
 ## Table of contents
 
